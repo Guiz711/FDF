@@ -20,10 +20,10 @@
 # include "libft.h"
 # include "libmlxext.h"
 
-# define REND_WIDTH 1500
+# define REND_WIDTH 1000
 # define MENU_WIDTH 400
 # define WIN_WIDTH MENU_WIDTH + REND_WIDTH
-# define WIN_HEIGHT 1000
+# define WIN_HEIGHT 700
 
 # define COLOR_DEPTH 32
 # define ENDIAN 1
